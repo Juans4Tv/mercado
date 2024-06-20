@@ -3,3 +3,5 @@
 
 para ejecutar el sistema debes poner:
 ´´npe install react´´
+
+sistema de registros
